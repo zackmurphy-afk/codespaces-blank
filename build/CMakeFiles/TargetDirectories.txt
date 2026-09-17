@@ -1,0 +1,5 @@
+/workspaces/codespaces-blank/build/CMakeFiles/chess_engine_lib.dir
+/workspaces/codespaces-blank/build/CMakeFiles/chess_engine.dir
+/workspaces/codespaces-blank/build/CMakeFiles/chess_engine_tests.dir
+/workspaces/codespaces-blank/build/CMakeFiles/edit_cache.dir
+/workspaces/codespaces-blank/build/CMakeFiles/rebuild_cache.dir
